@@ -28,7 +28,7 @@ return array(
 );
 ```  
 
-## Redy & go
+## Ready & go
 If your Laravel link is:  
 http://example.dev  
 go to:  
