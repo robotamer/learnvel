@@ -14,6 +14,6 @@ clone
 
 
 If your Laravel link is:  
-http://exsample.dev  
+http://example.dev  
 go to:  
-http://exsample.dev/learnvel  
+http://example.dev/learnvel  
