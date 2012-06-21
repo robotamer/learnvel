@@ -15,12 +15,12 @@ clone
 
 Add following line to application/bundles.php
 
-`'learnvel' => array('auto' => true, 'handles' => 'learnvel'), `
-So it should look like this:
-`return array(
-    'docs' => array('handles' => 'docs'), 
-    'learnvel' => array('auto' => true, 'handles' => 'learnvel'), 
-);`
+`'learnvel' => array('auto' => true, 'handles' => 'learnvel'), `  
+So it should look like this:  
+`return array(  
+    'docs' => array('handles' => 'docs'),   
+    'learnvel' => array('auto' => true, 'handles' => 'learnvel'),   
+);`  
 
 ## Redy & go
 If your Laravel link is:  
