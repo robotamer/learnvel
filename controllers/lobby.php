@@ -30,7 +30,8 @@ class Learnvel_Lobby_Controller extends Base_Controller {
      |
      */
     public function action_index() {
-        return "Hello Learnvel Controller!";
+        $name = Session::get('name');
+        return "Hello $name Learnvel Controller!";
         //return View::make('lobby.index');
     }
 
