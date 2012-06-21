@@ -18,9 +18,11 @@ git clone git://github.com/RoboTamer/learnvel.git
 Add following line to application/bundles.php
 
 ```php
-'learnvel' => array('auto' => true, 'handles' => 'learnvel'), `  
+'learnvel' => array('auto' => true, 'handles' => 'learnvel'),
+``` 
 So it should look like this:  
-`return array(  
+```php
+return array(  
     'docs' => array('handles' => 'docs'),   
     'learnvel' => array('auto' => true, 'handles' => 'learnvel'),   
 );
