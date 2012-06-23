@@ -32,7 +32,7 @@ class Learnvel_Lobby_Controller extends Base_Controller {
     public function action_index() {
         Session::put('name', 'Taylor');
         $name = Session::get('name');
-        return "Hello,<br /> $name is in the Learnvel Controller playing with sessions!<br /> Go check it out.<br /><pre>/bundles/learnvel/controllers/lobby.php";
+        return "Hello,<br /> $name is in the Learnvel Lobby Controller playing with sessions!<br /> Go check it out.<br /><pre>/bundles/learnvel/controllers/lobby.php</pre> Also check out <pre>/bundles/learnvel/routes.php</pre> to see how he got there!";
         //return View::make('lobby.index');
     }
 

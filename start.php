@@ -1,5 +1,5 @@
 <?php
 
 Autoloader::namespaces(array(
-    'Admin' => Bundle::path('learnvel').'models',
+    'Learnvel' => Bundle::path('learnvel').'models',
 ));

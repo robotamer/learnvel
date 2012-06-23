@@ -1,8 +1,10 @@
 A learning bundle for the Laravel Framework
 ========
 
-Laravel Learnvel Bundle => Hands on learning Laravel while reading the laravel documentation
+Laravel Learnvel Bundle => Hands on learning Laravel while reading the laravel documentation  
+Once you are done with this go check out the authvel to learn more about routing, and database creation and migration
 
+## Install
 
 Clone directly in to the Laravel bundles folder  
 
