@@ -1,4 +1,6 @@
 <?php
+// to catch controllers
+Route::controller(Controller::detect('learnvel'));
 
 Route::get('(:bundle)/hello', function() {
     return 'Hello World!';
