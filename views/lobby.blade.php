@@ -10,7 +10,6 @@
     <body>
         <div class="wrapper">
             <header>
-                <!-- {{ Scribe::content('learnvel-title') }} -->
                 <h1><img src="http://static.s7.riky.net/img/robotamer90x110.gif" alt="RT" /> Lernvel</h1><h2>A learning bundle for the Laravel Framework</h2><h3>Working With Encryption <a href="http://laravel.com/docs/encryption" target="_blank">=></a></h3>
                 <p class="intro-text">
                     This has been my, and can now can be your playground while reading the Laravel documentation.
