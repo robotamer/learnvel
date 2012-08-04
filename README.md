@@ -13,7 +13,7 @@ Clone directly in to the Laravel bundles folder
 clone
 
 ```php
-git clone git://github.com/RoboTamer/learnvel.git
+git clone git://github.com/robotamer/learnvel.git
 ```
 
 
